@@ -1,1 +1,12 @@
-
+1. git init
+2. git clone
+3. git add
+4. git commit
+5. git status
+6. git log
+7. git pull
+8. git push
+9. git branch
+10. git checkout
+11. git merge
+12. git remote
